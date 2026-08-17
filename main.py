@@ -1,0 +1,5 @@
+teperature=float(input('Enter teperature :'))
+heart_rate=int(input('Enter heart rate(bpm) :'))
+respiratory_rate=int(input('Enter respiratory rate(/min) :'))
+systolic=int(input('Enter systolic(mmHg) :'))
+diastolic=int(input('Enter diastolic(mmHg) :'))
